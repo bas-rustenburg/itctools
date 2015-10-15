@@ -1,13 +1,21 @@
 # itctools
-
+Travis:
 [![Build Status](https://travis-ci.org/choderalab/itctools.svg)](https://travis-ci.org/choderalab/itctools)
+
+Appveyor:
 [![Build status](https://ci.appveyor.com/api/projects/status/eexd1la2ghs518mc?svg=true)](https://ci.appveyor.com/project/bas-rustenburg/itctools)
+
+Coveralls:
 [![Coverage Status](https://coveralls.io/repos/choderalab/itctools/badge.png)](https://coveralls.io/r/choderalab/itctools)
+
+Landscape:
 [![Code Health](https://landscape.io/github/choderalab/itctools/master/landscape.svg)](https://landscape.io/github/choderalab/itctools/master)
 
 Tools for setting up ITC experiments in an automated fashion using the Tecan EVO and Auto-iTC 200.
 
 ## New:
+
+
 
 Run `bash install.sh` to set up a new python environment using miniconda at ${HOME}/miniconda. It should take care of all dependencies.
 
